@@ -1,0 +1,113 @@
+* {
+    padding:0px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+.header {
+    display:inline-flex;
+    padding:40px;
+}
+
+.nav {
+    justify-content: space-between;
+    display:flex;
+    font-size:15px;
+    font-weight:450;
+}
+
+.home:hover{
+    color:gray;
+}
+
+.project:hover, .about:hover{
+    color:darkblue;
+}
+
+
+.logo {
+    margin-left:50px;
+    font-size:30px;
+    font-weight:700;
+    text-align:center;
+    color : darkblue;
+    margin-right:900px;
+}
+
+.home {
+    color:darkblue;
+}
+
+.home, .project, .about {
+    padding: 0px 20px;
+    margin:5px;
+}
+
+.top {
+    margin-top : 200px;
+    margin-bottom:300px;
+}
+
+.hello {
+    font-size:100px;
+    font-weight:bold;
+    color:darkblue;
+    text-align:center;
+    
+}
+
+hr {
+    width: 1300px;  
+    color:black;
+}
+
+.content {
+    font-size:50px;
+    text-align:center;
+}
+
+img {
+    width:700px;
+    height:500px;
+    object-fit:cover;
+}
+
+.title {
+    margin-left:300px;
+    margin-bottom:50px;
+    font-size:35px;
+    font-weight:bold;
+    text-align:left;
+    color:darkblue;
+}
+
+.conp1 {
+    padding-left:300px;
+    width:900px;
+    display:inline-flex;
+}
+
+.pa {
+    text-align:left;
+    padding-left:100px;   
+}
+
+ul {
+    padding-left:10px;
+}
+
+.bottom, .center {
+    padding-top : 80px;
+    padding-bottom: 80px;
+}
+
+.contact {
+    color:darkblue;
+}
+.data {
+    padding-left:300px;
+    font-size:30px;
+}
+
+.d1 {
+    font-size: 20px;
+}
